@@ -45,6 +45,15 @@ export default{
 		letter-spacing: 0;
 		line-height: 18px;
 	}
+	.nav-li:nth-child(-n+3){
+		margin-right: 20px
+	}
+	.nav-li:nth-child(6){
+		margin:0 20px
+	}
+	.nav-li:nth-child(5){
+		margin-left: 59px
+	}
 	.li-img{
 		width: 18px;
 	}
